@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Style Orchestrator"
+  short_description: "Turn style prompts into production frontend UIs"
+  default_prompt: "Use $frontend-style-orchestrator to design or restyle this page with my visual style prompt."
